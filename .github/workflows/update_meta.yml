@@ -2,7 +2,7 @@ name: Update PoE2 Meta JSON
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours (UTC)
+    - cron: "0 */3 * * *"   # Runs every 6 hours (UTC)
   workflow_dispatch:         # Lets you trigger it manually from the Actions tab
 
 permissions:
