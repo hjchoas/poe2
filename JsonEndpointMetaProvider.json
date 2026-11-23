@@ -1,9 +1,101 @@
 {
   "source": "poe2_live_meta",
   "mod_stats": [
-    {"item_class": "Wands", "normalized_mod": "+# to Level of all Spell Skills", "usage_pct": 68.0}
+    {"item_class": "Boots", "normalized_mod": "#% increased Movement Speed", "usage_pct": 94.5},
+    {"item_class": "Boots", "normalized_mod": "+# to maximum Life", "usage_pct": 88.0},
+    {"item_class": "Boots", "normalized_mod": "+#% to Fire Resistance", "usage_pct": 25.0},
+    {"item_class": "Boots", "normalized_mod": "+#% to Cold Resistance", "usage_pct": 45.0},
+    {"item_class": "Boots", "normalized_mod": "+# to maximum Energy Shield", "usage_pct": 15.0},
+
+    {"item_class": "Jewels", "normalized_mod": "#% increased maximum Energy Shield", "usage_pct": 62.0},
+    {"item_class": "Jewels", "normalized_mod": "#% increased Critical Hit Chance for Spells", "usage_pct": 48.0},
+    {"item_class": "Jewels", "normalized_mod": "#% increased Critical Spell Damage Bonus", "usage_pct": 46.0},
+    {"item_class": "Jewels", "normalized_mod": "#% increased Spell Damage", "usage_pct": 42.0},
+    {"item_class": "Jewels", "normalized_mod": "#% increased Critical Hit Chance", "usage_pct": 38.0},
+    {"item_class": "Jewels", "normalized_mod": "#% increased Critical Damage Bonus", "usage_pct": 35.0},
+    {"item_class": "Jewels", "normalized_mod": "#% increased Effect of Suffixes", "usage_pct": 50.0},
+    {"item_class": "Jewels", "normalized_mod": "#% of Damage is taken from Mana before Life", "usage_pct": 22.0},
+
+    {"item_class": "Belts", "normalized_mod": "+# to maximum Life", "usage_pct": 85.0},
+    {"item_class": "Belts", "normalized_mod": "+# to maximum Mana", "usage_pct": 45.0},
+    {"item_class": "Belts", "normalized_mod": "+#% to Fire Resistance", "usage_pct": 52.0},
+    {"item_class": "Belts", "normalized_mod": "+#% to Cold Resistance", "usage_pct": 50.0},
+    {"item_class": "Belts", "normalized_mod": "+#% to Lightning Resistance", "usage_pct": 50.0},
+    {"item_class": "Belts", "normalized_mod": "+# to Strength", "usage_pct": 35.0},
+
+    {"item_class": "Rings", "normalized_mod": "+# to maximum Life", "usage_pct": 82.0},
+    {"item_class": "Rings", "normalized_mod": "+# to maximum Mana", "usage_pct": 55.0},
+    {"item_class": "Rings", "normalized_mod": "+#% to Chaos Resistance", "usage_pct": 48.0},
+    {"item_class": "Rings", "normalized_mod": "+#% to all Elemental Resistances", "usage_pct": 45.0},
+    {"item_class": "Rings", "normalized_mod": "#% increased Rarity of Items found", "usage_pct": 42.0},
+    {"item_class": "Rings", "normalized_mod": "Adds # to # Physical Damage to Attacks", "usage_pct": 38.0},
+    {"item_class": "Rings", "normalized_mod": "#% increased Cast Speed", "usage_pct": 32.0},
+
+    {"item_class": "Amulets", "normalized_mod": "+# to Level of all Spell Skills", "usage_pct": 52.0},
+    {"item_class": "Amulets", "normalized_mod": "+# to Level of all Projectile Skills", "usage_pct": 48.0},
+    {"item_class": "Amulets", "normalized_mod": "+# to Spirit", "usage_pct": 60.0},
+    {"item_class": "Amulets", "normalized_mod": "+# to maximum Life", "usage_pct": 72.0},
+    {"item_class": "Amulets", "normalized_mod": "+# to maximum Energy Shield", "usage_pct": 55.0},
+    {"item_class": "Amulets", "normalized_mod": "#% increased Rarity of Items found", "usage_pct": 44.0},
+
+    {"item_class": "Wands", "normalized_mod": "+# to Level of all Spell Skills", "usage_pct": 68.0},
+    {"item_class": "Wands", "normalized_mod": "#% increased Spell Damage", "usage_pct": 75.0},
+    {"item_class": "Wands", "normalized_mod": "#% increased Cast Speed", "usage_pct": 62.0},
+    {"item_class": "Wands", "normalized_mod": "#% increased Critical Hit Chance for Spells", "usage_pct": 46.0},
+    {"item_class": "Wands", "normalized_mod": "Gain #% of Damage as Extra Lightning Damage", "usage_pct": 42.0},
+
+    {"item_class": "Bows", "normalized_mod": "#% increased Physical Damage", "usage_pct": 78.0},
+    {"item_class": "Bows", "normalized_mod": "Adds # to # Physical Damage", "usage_pct": 72.0},
+    {"item_class": "Bows", "normalized_mod": "#% increased Attack Speed", "usage_pct": 65.0},
+    {"item_class": "Bows", "normalized_mod": "+# to Level of all Projectile Skills", "usage_pct": 50.0},
+    {"item_class": "Bows", "normalized_mod": "+#% to Critical Hit Chance", "usage_pct": 44.0},
+
+    {"item_class": "Body Armours", "normalized_mod": "+# to maximum Life", "usage_pct": 84.0},
+    {"item_class": "Body Armours", "normalized_mod": "+# to maximum Energy Shield", "usage_pct": 58.0},
+    {"item_class": "Body Armours", "normalized_mod": "+# to Spirit", "usage_pct": 52.0},
+    {"item_class": "Body Armours", "normalized_mod": "+#% to Chaos Resistance", "usage_pct": 45.0},
+    {"item_class": "Body Armours", "normalized_mod": "+#% to Fire Resistance", "usage_pct": 42.0},
+
+    {"item_class": "Helmets", "normalized_mod": "+# to maximum Life", "usage_pct": 80.0},
+    {"item_class": "Helmets", "normalized_mod": "+# to maximum Energy Shield", "usage_pct": 55.0},
+    {"item_class": "Helmets", "normalized_mod": "#% increased Rarity of Items found", "usage_pct": 48.0},
+    {"item_class": "Helmets", "normalized_mod": "+#% to Chaos Resistance", "usage_pct": 42.0},
+    {"item_class": "Helmets", "normalized_mod": "+# to Level of all Minion Skills", "usage_pct": 35.0},
+
+    {"item_class": "Gloves", "normalized_mod": "+# to maximum Life", "usage_pct": 82.0},
+    {"item_class": "Gloves", "normalized_mod": "#% increased Attack Speed", "usage_pct": 54.0},
+    {"item_class": "Gloves", "normalized_mod": "Adds # to # Physical Damage to Attacks", "usage_pct": 46.0},
+    {"item_class": "Gloves", "normalized_mod": "+#% to Chaos Resistance", "usage_pct": 44.0},
+    {"item_class": "Gloves", "normalized_mod": "#% increased Rarity of Items found", "usage_pct": 38.0}
   ],
   "mod_cooccurrence": [
-    {"item_class": "Wands", "mod_a": "+# to Level of all Spell Skills", "mod_b": "#% increased Spell Damage", "cooccurrence_pct": 64.0}
+    {"item_class": "Boots", "mod_a": "#% increased Movement Speed", "mod_b": "+# to maximum Life", "cooccurrence_pct": 82.0},
+    {"item_class": "Boots", "mod_a": "#% increased Movement Speed", "mod_b": "+#% to Fire Resistance", "cooccurrence_pct": 40.0},
+    {"item_class": "Boots", "mod_a": "+#% to Fire Resistance", "mod_b": "+#% to Cold Resistance", "cooccurrence_pct": 30.0},
+
+    {"item_class": "Jewels", "mod_a": "#% increased Critical Hit Chance for Spells", "mod_b": "#% increased Critical Spell Damage Bonus", "cooccurrence_pct": 58.0},
+    {"item_class": "Jewels", "mod_a": "#% increased Spell Damage", "mod_b": "#% increased Critical Hit Chance for Spells", "cooccurrence_pct": 44.0},
+    {"item_class": "Jewels", "mod_a": "#% increased maximum Energy Shield", "mod_b": "#% increased Critical Hit Chance for Spells", "cooccurrence_pct": 36.0},
+
+    {"item_class": "Belts", "mod_a": "+# to maximum Life", "mod_b": "+# to maximum Mana", "cooccurrence_pct": 48.0},
+    {"item_class": "Belts", "mod_a": "+#% to Cold Resistance", "mod_b": "+#% to Lightning Resistance", "cooccurrence_pct": 42.0},
+
+    {"item_class": "Rings", "mod_a": "+# to maximum Life", "mod_b": "+#% to Chaos Resistance", "cooccurrence_pct": 46.0},
+    {"item_class": "Rings", "mod_a": "+# to maximum Mana", "mod_b": "#% increased Cast Speed", "cooccurrence_pct": 34.0},
+
+    {"item_class": "Amulets", "mod_a": "+# to Level of all Spell Skills", "mod_b": "+# to Spirit", "cooccurrence_pct": 52.0},
+    {"item_class": "Amulets", "mod_a": "+# to Spirit", "mod_b": "+# to maximum Energy Shield", "cooccurrence_pct": 44.0},
+
+    {"item_class": "Wands", "mod_a": "+# to Level of all Spell Skills", "mod_b": "#% increased Spell Damage", "cooccurrence_pct": 64.0},
+    {"item_class": "Wands", "mod_a": "#% increased Spell Damage", "mod_b": "#% increased Cast Speed", "cooccurrence_pct": 55.0},
+
+    {"item_class": "Bows", "mod_a": "#% increased Physical Damage", "mod_b": "Adds # to # Physical Damage", "cooccurrence_pct": 70.0},
+    {"item_class": "Bows", "mod_a": "#% increased Physical Damage", "mod_b": "#% increased Attack Speed", "cooccurrence_pct": 58.0},
+
+    {"item_class": "Body Armours", "mod_a": "+# to maximum Life", "mod_b": "+# to Spirit", "cooccurrence_pct": 48.0},
+    {"item_class": "Body Armours", "mod_a": "+# to maximum Energy Shield", "mod_b": "+# to Spirit", "cooccurrence_pct": 46.0},
+
+    {"item_class": "Helmets", "mod_a": "+# to maximum Life", "mod_b": "#% increased Rarity of Items found", "cooccurrence_pct": 42.0},
+    {"item_class": "Gloves", "mod_a": "+# to maximum Life", "mod_b": "#% increased Attack Speed", "cooccurrence_pct": 50.0}
   ]
 }
