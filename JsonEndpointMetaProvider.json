@@ -1,6 +1,36 @@
 {
   "source": "poe2_live_meta_20261124_0749",
   "mod_stats": [
+    { "item_class": "Quarterstaves", "normalized_mod": "#% increased Physical Damage", "usage_pct": 76.0 },
+    { "item_class": "Quarterstaves", "normalized_mod": "Adds # to # Physical Damage", "usage_pct": 70.0 },
+    { "item_class": "Quarterstaves", "normalized_mod": "#% increased Attack Speed", "usage_pct": 64.0 },
+    { "item_class": "Quarterstaves", "normalized_mod": "+# to Level of all Melee Skills", "usage_pct": 48.0 },
+    { "item_class": "Quarterstaves", "normalized_mod": "+# to Critical Hit Chance", "usage_pct": 42.0 },
+  
+    { "item_class": "Crossbows", "normalized_mod": "#% increased Physical Damage", "usage_pct": 75.0 },
+    { "item_class": "Crossbows", "normalized_mod": "Adds # to # Physical Damage", "usage_pct": 68.0 },
+    { "item_class": "Crossbows", "normalized_mod": "#% increased Attack Speed", "usage_pct": 58.0 },
+    { "item_class": "Crossbows", "normalized_mod": "+# to Level of all Projectile Skills", "usage_pct": 45.0 },
+  
+    { "item_class": "Sceptres", "normalized_mod": "+# to Spirit", "usage_pct": 74.0 },
+    { "item_class": "Sceptres", "normalized_mod": "+# to Level of all Minion Skills", "usage_pct": 62.0 },
+    { "item_class": "Sceptres", "normalized_mod": "#% increased Spell Damage", "usage_pct": 46.0 },
+    { "item_class": "Sceptres", "normalized_mod": "Allies in your Presence deal #% increased Damage", "usage_pct": 44.0 },
+  
+    { "item_class": "Foci", "normalized_mod": "#% increased Spell Damage", "usage_pct": 72.0 },
+    { "item_class": "Foci", "normalized_mod": "+# to maximum Energy Shield", "usage_pct": 66.0 },
+    { "item_class": "Foci", "normalized_mod": "+# to Level of all Spell Skills", "usage_pct": 52.0 },
+    { "item_class": "Foci", "normalized_mod": "#% increased Cast Speed", "usage_pct": 44.0 },
+  
+    { "item_class": "Shields", "normalized_mod": "+# to maximum Life", "usage_pct": 78.0 },
+    { "item_class": "Shields", "normalized_mod": "+# to maximum Energy Shield", "usage_pct": 64.0 },
+    { "item_class": "Shields", "normalized_mod": "+#% to Fire Resistance", "usage_pct": 48.0 },
+    { "item_class": "Shields", "normalized_mod": "#% increased Block chance", "usage_pct": 45.0 },
+  
+    { "item_class": "Quivers", "normalized_mod": "Adds # to # Physical Damage to Attacks", "usage_pct": 74.0 },
+    { "item_class": "Quivers", "normalized_mod": "+# to Level of all Projectile Skills", "usage_pct": 60.0 },
+    { "item_class": "Quivers", "normalized_mod": "#% increased Attack Speed", "usage_pct": 54.0 },
+    { "item_class": "Quivers", "normalized_mod": "+# to maximum Life", "usage_pct": 46.0 }
     {
       "item_class": "Boots",
       "normalized_mod": "#% increased Movement Speed",
