@@ -30,7 +30,7 @@
     { "item_class": "Quivers", "normalized_mod": "Adds # to # Physical Damage to Attacks", "usage_pct": 74.0 },
     { "item_class": "Quivers", "normalized_mod": "+# to Level of all Projectile Skills", "usage_pct": 60.0 },
     { "item_class": "Quivers", "normalized_mod": "#% increased Attack Speed", "usage_pct": 54.0 },
-    { "item_class": "Quivers", "normalized_mod": "+# to maximum Life", "usage_pct": 46.0 }
+    { "item_class": "Quivers", "normalized_mod": "+# to maximum Life", "usage_pct": 46.0 },
     {
       "item_class": "Boots",
       "normalized_mod": "#% increased Movement Speed",
